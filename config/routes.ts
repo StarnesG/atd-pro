@@ -43,6 +43,12 @@
     component: './TableList',
   },
   {
+    path: '/facechange',
+    name: 'facechange',
+    icon: 'smile',
+    component: './facechange',
+  },
+  {
     path: '/',
     redirect: '/welcome',
   },
